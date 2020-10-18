@@ -1,0 +1,2340 @@
+
+	1	During the execution of an IT project, a project manager warns of the possibility that the main 
+	server may fail due to constant local-area electrical outages. The project manager signs a contract 
+	to rent an additional server from a local company.What strategy is the project manager using? 
+	[41801]
+	A: Share
+	B: Transfer
+	C: Mitigate
+	D: Enhance
+	Rent an addition server is not transferring risk to 3rd party. The project need to take care the risk himself.
+	C	4
+$$1	RSK	Risk Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41801
+	2	A project team member identifies a quality issue that may cause the product to be rejected by the 
+	customer. However, the project sponsor wants to deliver the product.What should the project 
+	manager do? [41802]
+	A: Update the issue log
+	B: Deliver the product
+	C: Review the quality checklist
+	D: Ensure that the product meets customer requirements
+	For all quality issue, it should be recorded.
+	A	4
+$$1	QUA	Quality Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41802
+	3	As part of a project, a new plant is being constructed in a typhoon-prone area. This may impact 
+	the project's schedule and quality.What should the project manager do to address this? [41803]
+	A: Implement the Plan Risk Management process and establish a management reserve
+	B: Conduct the Perform Quantitative Risk Analysis process, and plan a risk response
+	C: Outsource the project to transfer the risk
+	D: Establish a contingency reserve
+	the question is asking what should be done before. This is about overall project risk so it need to be handled in quantitative risk analysis.
+	B	5
+$$1	RSK	Risk Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41803
+	4	Based on the project schedule, how much float is there for activity number 4.  Activity 1, 5 days  
+	from 1Jan-6Jan, no predecessor; Activity 2, 7 days from 7Jan-14Jan, predecessor Act 1 FS; Activity 
+	3, 11 days from 7Jan-18Jan, predecessor Act 1 FS; Activity 4, 7 days from 19Jan-26Jan, predecessor
+	 Act 2 FS and 3 FS; Activity 5, 4 days from 27Jan-31Jan, predecessor Act 4 FS. [41804]
+	A: 0
+	B: 4
+	C: 7
+	D: 9
+	A	2
+$$1	TME	Time Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41804
+Page 1 of 47	16-Oct-2020
+ 
+
+	5	A project is nearing completion when the project manager learns that a change in market 
+	regulation may impact the project. What should the project manager do? [41805]
+	A: Check the stakeholder register
+	B: Update the cost baseline
+	C: Review the risk management plan
+	D: Perform a cost benefit analysis
+	D	3
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41805
+	6	A project manager completes the requirements traceability matrix but indicates that not all 
+	requirements will be addressed. What should the project manager do to resolve this situation? 
+	[41806]
+	A: Compile requirements through affinity diagrams
+	B: Define the scope by using facilitation
+	C: Plan scope management using expert judgement
+	D: Control the scope through variance analysis
+	B	5
+$$1	SCO	Scope Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41806
+	7	A supplier reports that they are over capacity. Which may delay their delivery. What should the 
+	project manager update? [41807]
+	A: Risk register
+	B:  stakeholder register
+	C: Issue log
+	D: project schedule
+	C	3
+$$1	PRC	Procurement Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41807
+	8	A Project Manager is developing a project risk register. What tool or techniques should the Project
+	 Manager use to generate a list of all possible project risks? [41808]
+	A: Monte Carlo simulation
+	B: Tornato diagram
+	C: Brainstorming
+	D: Sensitivity analysis
+	C	3
+$$1	RSK	Risk Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41808
+	9	To estimate the cost of project activities for a new project, a Project Manager uses the schedule 
+	form a similar project. What tool or technique is the Project Manager using? [41809]
+	A: Expert judgment 
+	B: Parametric estimating
+	C: Bottom-up estimating
+	D: Analogous estimating
+	D	2
+$$1	TME	Time Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41809
+Page 2 of 47	16-Oct-2020
+ 
+
+	10	To implement a customer relationship management (CRM) software solution, a systems Project 
+	Manager must identify the required human resources. What should the Project Manager 
+	reference? [41810]
+	A: Project team assignments
+	B: Organizational theory
+	C: Resource requirements
+	D: Resource calendars
+	Resource calendar is input to 9.2 Estimate resources. The questions is asking 9.2 process. Organization theory is tool for 9.1 Plan HR, 
+	Team assignment is output from 9.3 Acquire, Resource Requirement is output from 9.2. the question is asking input of 9.2.
+	D	5
+$$1	HR	Human Resources Mgt	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41810
+	11	Due to commitments to another project, an accountant fails to deliver an important report. What 
+	should the Project Manager have referenced to avoid this? [41811]
+	A: Responsible, accountable, consult and inform (RACI) matrix
+	B: Timesheets
+	C: Resources allocation plan
+	D: Resource calendars
+	D	5
+$$1	HR	Human Resources Mgt	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41811
+	12	During an IT hardware manufacturing project, the Project Manager discovers that certain batches 
+	of components are failing quality inspections. What should the Project Manager use to lower the 
+	failure rate? [41812]
+	A: Control chart
+	B: Tornato diagram
+	C: Probability and impact matrix
+	D: Fishbone diagram
+	D	5
+$$1	QUA	Quality Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41812
+	13	A Project Manager plans the agenda for a kick-off meeting. As one of the first agenda items the 
+	Project Manager wants to set the strategic direction of the project.Who should present this 
+	topic? [41813]
+	A: Customer
+	B: Functional manager
+	C: Project Sponsor
+	D: Project Manager
+	C	5
+$$1	INT	Integration Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41813
+Page 3 of 47	16-Oct-2020
+ 
+
+	14	A Project Manager office (PMO) assigns a resources to a project. To what should the Project 
+	Manager refer to evaluate this resources? [41814]
+	A: Expert judgment 
+	B: Responsible, accountable, consult and inform (RACI) matrix
+	C: Resource management plan
+	D: Resource requirements
+	D	5
+$$1	HR	Human Resources Mgt	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41814
+	15	A  Project Manager notices that the project is behind schedule because materials delivery was 
+	delayed. The procurement team informs the Project Manager that new government imposed rules
+	 for the procurement of these materials caused this delay.In what plan should these new rules be
+	 documented? [41815]
+	A: Procurement Management
+	B: Communication Management
+	C: Stakeholder Engagement
+	D: Project Management
+	A	3
+$$1	PRC	Procurement Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41815
+	16	During project implementation, the Project Manager reviews identified key performance 
+	indicators (KPIs) and determines that the project is within budget and on schedule. To what 
+	process does this activity belong? [41816]
+	A: Review Scope Baseline
+	B: Review Project Performance
+	C: Perform integrated Change Control
+	D: Monitor and Control Project Work
+	D	3
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41816
+	17	A Project Manager must obtain approval for a network cabling project. After preparation of 
+	detailed project information, some team member remain dissatisfied, as the selected equipment is
+	 new and insufficiently tested. The Project Manager determines that the equipment meets 
+	technology needs.What skills should the Project Manager use to obtain team consensus and 
+	sponsor approval? [41817]
+	A: Interpersonal
+	B: Team-building
+	C: Stakeholder Engagement
+	D: Leadership
+	A	5
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41817
+Page 4 of 47	16-Oct-2020
+ 
+
+	18	Midway through project execution, several stakeholders raise concerns about team performance 
+	and delivery. The Project Manager believes that project is progressing per the approved scope, 
+	budget and schedule.  What should the Project Manager do next?  [41818]
+	A: Email the stakeholders to assure them of action
+	B: Consult the communications management plan to manage stakeholders' expectations
+	C: Ask the project sponsor to intervene
+	D: Ask stakeholders to escalate their concerns to CEO
+	B	4
+$$1	CO	Communication 	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41818
+	19	A Project Manager is working on a construction project in a flood-prone area. The Project 
+	Manager identified this as a risk and obtaining insurance as a precautionary measure.  What risk 
+	strategy did the Project Manager use?  [41819]
+	A: Transfer
+	B: Avoid
+	C: Accept
+	D: Mitigate
+	A	2
+$$1	RSK	Risk Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41819
+	20	During a project's initiation phase, the Project Manager reviews the business case and finds that 
+	information is incomplete. What should the Project Manager do?  [41820]
+	A: Add an information gap to the risk register
+	B: Review the project statement of work (SOW) to create the project charter.
+	C: Revise the business case to narrow the project scope and create the project charter.
+	D: review the business case with the sponsoring organization to confirm that the project aligns 
+	with business needs
+	D	5
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41820
+	21	A recently promoted Project Manager must facilitate the weekly status update meeting. What 
+	should the Project Manager do to ensure a productive meeting? [41821]
+	A: Carefully read the latest meeting minutes
+	B: Avoid or smooth over any disagreements
+	C: Limit attendance to the project team and stakeholders
+	D: Circulate a defined agenda in advance
+	D	2
+$$1	CO	Communication 	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41821
+	22	A Project Manager in a cross-functional organization needs to inform the department manager of 
+	the number and type of resources required and the length of time they will be needed. What 
+	should the Project Manager use to present this resource information? [41822]
+	A: Resource assignments
+	B: Resource histogram
+	C: Responsibility assignment matrix (RAM)
+	D: Project organization chart
+	B	5
+$$1	HR	Human Resources Mgt	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41822
+Page 5 of 47	16-Oct-2020
+ 
+
+	23	All quality controls have passed and a project deliverable is ready to be released to the customer. 
+	However, a change request to add new quality criteria has been approved.What should the 
+	Project Manager do first? [41823]
+	A: Update the project management plan 
+	B: Stop the release of the deliverable to the customer
+	C: Use the new quality criteria for future deliverables
+	D: Update the risk register
+	A	5
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41823
+	24	While reviewing the statement of work (SOW), two stakeholders disagree on what the project 
+	should include. What should the Project Manager do? [41824]
+	A: Include the stakeholder comments for future references in the project charter
+	B: Meet with the two stakeholders to resolve the conflict and reach agreement
+	C: Document the stakeholders' opinions but include the remaining stakeholders' input in final 
+	decision making
+	D: Document the conflict in the issue log before developing the project charter
+	B	5
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41824
+	25	After presenting a prototype to the client, the Project Manager gathers feedback. The client was 
+	pleased with the prototype, but requested a few changes. The team determines that these 
+	changes will take less than a week to implement.What should the Project Manager do first? 
+	[41825]
+	A: Update the work breakdown structure (WBS)
+	B: Inform the client of the additional costs
+	C: Update the schedule and make the requested changes
+	D: Submit a change request
+	D	3
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41825
+	26	A supplier delivers equipment that fails to meet customer requirements, investigation determines 
+	that the supplier misunderstood the requirements and made incorrect assumptions without 
+	clarifying them with the customer. What communication method should the Project Manager 
+	have used to avoid this? [41826]
+	A: Interactive
+	B: Push
+	C: Pull
+	D: Active listening
+	A	3
+$$1	CO	Communication 	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41826
+Page 6 of 47	16-Oct-2020
+ 
+
+	27	A project team member indicates that a change must be made to the requirements due to a new 
+	regulation and proceeds with the mandatory change. What should the Project Manager do next?  
+	[41827]
+	A: Accept the modifications because the change is necessary
+	B: Determine if there is a budget available to make the change and proceed if possible
+	C: Follow the process described in the change management plan
+	D: Forward the change request to the sponsor, so to ensure enough resource to implement the 
+	change
+	C	3
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41827
+	28	A system must be built to accelerate the airport controls and to ensure the safety and comfort of 
+	all travelers The company has not previously performed any similar projects What should the 
+	project manager use during the initiation phase?  [41828]
+	A: Lessons Learned
+	B: expert judgment 
+	C: Meeting with subject matter experts (SMEs)
+	D: organization process asset
+	B	5
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41828
+	29	A Project Manager in a weak matrix organization notices that a resource is behind schedule on a 
+	project task. The Project Manager discovers that this resource was assigned to two other project 
+	by the line manager. What should the Project Manager do?  [41829]
+	A: Ask for a replacement
+	B: Request that the resource be released from the other projects.
+	C: Schedule a meeting to prioritize the project
+	D: Request the resource to work over time. 
+	C	4
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41829
+	30	A project's outcome is highly sensitive to and department upon financial market activity. 
+	Therefore, the company's financial advisor delivers daily exchange rate forecasts. The project's 
+	budget was planned using a conservative scenario with high exchange-rate variations. The project 
+	manager now wants to review this budget to update the probability an impact of a possible new 
+	scenario using current financial conditions. To what should the project manager refer? [41830]
+	A: stakeholder register
+	B: risk register 
+	C: lessons learned 
+	D: market conditions
+	This is an update of existing risk probabiliy and impact with new scenarion. Market conditions is for estimate cost for activity, not for 
+	whole project budget. Lesson learned refer to past situation and stakeholder register refer to satisfaction and both are irrelevant.
+	B	5
+$$1	COS	Cost Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41830
+Page 7 of 47	16-Oct-2020
+ 
+
+	31	The implementation of a business requirement for an IT project impacts several applications. The 
+	application owner notices that changes to a function in application X can be started only upon 
+	completion of the development of a new feature in application Y. This is an example of what 
+	dependency?  [41831]
+	A: Start-To-start (SS)
+	B: Finish-to-Start (FS)
+	C: Start-to-Finish(SF)
+	D: Finish-to-Finish(FF)
+	B	2
+$$1	TME	Time Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41831
+	32	A Project Manager wants to recruit another team member to replace an architect who resigned. 
+	What document should capture this change?  [41832]
+	A: Ground rules
+	B: project management plan
+	C: organization process assets
+	D: responsibility assignment matrix (RAM)
+	B	5
+$$1	HR	Human Resources Mgt	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41832
+	33	 A multinational company with a cross-border project wants to implement new software that will 
+	impact several departments The project manager needs to guarantee alignments of stakeholder 
+	expectations with the final product. What should the project team developed?  [41833]
+	A: Project Statement of work (SOW)
+	B: Stakeholder engagement plan
+	C: Stakeholders engagement assessment matrix
+	D: Risk breakdown structure (RBS)
+	B	4
+$$1	STK	Stakeholder Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41833
+	34	A Project Manager is conducting a project benefits analysis with key stakeholders of an IT project. 
+	An engineer from another department inform the Project Manager that there are systems 
+	impacted by the solution that have not yet been identified.What should the project manager do?
+	 [41834]
+	A: Document this information in the risk register 
+	B: Review the project benefits analysis to consider the additional impacts
+	C: Note that engineer's issue in the issue log
+	D: Work with the team to identify all stakeholders
+	this question is asking you how you will deal with the issue. So add to issue log is the logical choice.
+	C	4
+$$1	STK	Stakeholder Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41834
+Page 8 of 47	16-Oct-2020
+ 
+
+	35	Due to a recent incident, a dissatisfied stakeholder files a complaint about a project that has been 
+	closed. What can the Project Manager do to help resolve this? [41835]
+	A: Execute the relationship management plan
+	B: Consult with the project sponsor to manage the dissatisfied stakeholder 
+	C: Review the project management information system (PMIS) archives
+	D: Update the risk register
+	C	5
+$$1	STK	Stakeholder Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41835
+	36	The project charter for a new project is authorized and the company's executives appoint a Project
+	 Manager. What should the Project Manager do first? [41836]
+	A: Identify and report the high-level risk to the executive
+	B: Define the project scope
+	C: Appoints and assign project team members
+	D: Define and prepare the project management plan
+	D	5
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41836
+	37	As a project approaches its final phases, the Project Manager sends a follow-up report to the 
+	stakeholders. Some stakeholders comment that some unresolved issues have been excluded from 
+	the report.What should the Project Manager have done to prevent this? [41837]
+	A: Conducted the Monitor Communication Process
+	B: Implemented the Monitor Risk Process
+	C: Follow the perform integrated change control process
+	D: Better control project documents
+	A	4
+$$1	CO	Communication 	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41837
+	38	After the root cause of defective deliverables is identified, the project director decides to closely 
+	examine the team performance assessment. What will the results of this method contribute to 
+	during the project execution? [41838]
+	A: Project team acquisition and the analysis of combined project experience
+	B: Project team management and team improvement of team interaction
+	C: Project team development and the improvement of the skill level
+	D: Resource management plan and definition of role
+	C	5
+$$1	HR	Human Resources Mgt	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41838
+	39	During a project steering committee meeting, the Project Manager reports that a formerly 
+	supportive key team member has become resistant to and negative about changes. Where should 
+	this information be captured? [41839]
+	A: Responsible, accountable, consult and inform (RACI) matrix
+	B: Stakeholder engagement assessment matrix
+	C: Risk register and issue log
+	D: Work performance reports
+	B	4
+$$1	STK	Stakeholder Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41839
+Page 9 of 47	16-Oct-2020
+ 
+
+	40	During a portfolio review meeting, a Project Manager learns that their project was cancelled. The 
+	Project Manager wants to inform the stakeholders and team members about this.To what 
+	document should the Project Manager refer? [41840]
+	A: Resource management plan
+	B: Communication Management Plan
+	C: Responsibility assignment matrix (RAM)
+	D: Project mailing list
+	B	3
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41840
+	41	A Project Manager develops a business case during project initiation. What areas should the 
+	Project Manager consider when developing the business case? [41841]
+	A: Expected resources performance and cost-benefit analysis
+	B: Expected resources performance and the project's communication to the strategic portfolio 
+	objectives
+	C: Business benefits provided by project deliverables and portfolio analysis
+	D: Business benefits provided by project deliverables and organization strategy
+	D	5
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41841
+	42	After several weeks on a new project, the project manager learns that the accounting department 
+	has rejected all changes because the project was not approved. What should the Project Manager 
+	have done to prevent this? [41842]
+	A: Obtained the funds needed to initiate the project 
+	B: Verified that the business case was authorized by the steering committee
+	C: Planned the resources necessary to initiate the project 
+	D: Verified the project charter has been authorized by project sponsor
+	D	4
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41842
+	43	During a project's execution phase, the project team fails to meet client expectations for the 
+	deliverables. The Project Manager wants to remove distraction and focus the team on the 
+	objectives. What should the Project Manager do? [41843]
+	A: Set up new ground rules for team expectations
+	B: Create a war room to enhance the team's ability to communicate
+	C: Update the communication management plan to include additional communications
+	D: Direct the project team to become a better team player
+	B	4
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41843
+Page 10 of 47	16-Oct-2020
+ 
+
+	44	The communication technology being applied in a project was tested in simulated environment 
+	but never in actual projects. This lack of experience with the technology must be addressed in 
+	detail.Which of the following strategies should be used in the project's planning process? [41844]
+	A: Provide a status update to senior management
+	B: Update the project scope if the project grows more complex
+	C: Mitigate the risk by conducting the pilot
+	D: Use alternative analysis to remove the thread
+	B	5
+$$1	INT	Integration Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41844
+	45	What should the team consider to be most important while creating the probability and impact 
+	matrix to support the project risk analysis? [41845]
+	A: Project scope and project deliverables
+	B: Schedule and budget contingencies and reserves
+	C: Possible effect on the objectives of the project
+	D: Interaction that will occur in the project
+	C	3
+$$1	RSK	Risk Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41845
+	46	Upon approval, a new Project Manager immediately begins a project. Three months into the 
+	project the Project Manager identifies numerous obstables. What should the project manager 
+	have done?  [41846]
+	A: identifies risks
+	B: Performed a qualitattive risk analysis
+	C: Performed a quantitative risk analysis
+	D: Planned risk response.
+	should had planned reponse so they will have options and greeed the actions and response.
+	D	5
+$$1	RSK	Risk Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41846
+	47	A Project Manager invites stakeholders to a gate review meeting. What should be done at this 
+	meeting?  [41847]
+	A: Evaluate if the project has met its objectives and agree on phase closure
+	B: Evaluate project risks and move on to the next project phase
+	C: Ensure that all late changes to the project have been added
+	D: Ensure that the change control board has approved the recent project changes
+	Phase gate review meeting should be used to perform a go and no-go decision to next phase, rather than review whether should close 
+	this phsae.
+	B	4
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41847
+Page 11 of 47	16-Oct-2020
+ 
+
+	48	A project manager assumes a new project. As part of the initiation process. What should the 
+	project manager do prior to the planning stage?  [41848]
+	A: Define the project sign-off criteria and create a risk register.
+	B: Develop the project charter and identify the stakeholders
+	C: Start gathering requirements and plan the kick off meeting
+	D: Acquire resource and confirm budget
+	B	3
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41848
+	49	During the annual project planning workshop, the human resource director requests the 
+	development of a new employee-leave application system. The project management office (PMO) 
+	is responsible for following up on this request. What should the PMO do next?  [41849]
+	A: Check available systems on the internet
+	B: Determine the available budget
+	C: Obtain the project statement of work (SOW)
+	D: Develop project management plaan
+	C	5
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41849
+	50	An unforeseen issue results in the need to procure a new piece of machinery critical for meeting 
+	quality specifications From where may the necessary funds be obtained?  [41850]
+	A: Key stakeholders
+	B: Management reserve
+	C: Contingincy reserve
+	D: Project sponsor
+	B	3
+$$1	COS	Cost Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41850
+	51	A sponsor proposes a project scope change that is popular with the project team and key 
+	stakeholders. What should the project manager do?  [41851]
+	A: Follow the scope change request process
+	B: Notify stakeholders of the change
+	C: Update the project requirements
+	D: Modify the work breakdown structure 
+	A	3
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41851
+	52	A large risk to a project is identified, and the risk management plan is executed. Uponn 
+	completion of the approved actions. What should the project manager do?  [41852]
+	A: Update the risk management plan
+	B: Revise the project schedule and the budget
+	C: Update the lessons learned
+	D: identify new risk and monitor residue risk
+	D	5
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41852
+Page 12 of 47	16-Oct-2020
+ 
+
+	53	Phase two of a complex, multi-phase project is completed, and the customer accepts the 
+	deliverables. What should the project team do to benefit from this phase? [41853]
+	A: Measure customer satisfaction
+	B: Perform a risk analysis
+	C: Obtain additional resources
+	D: record and share lesson learned
+	D	3
+$$1	INT	Integration Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41853
+	54	All the deliverables defined in a project have been completed. In the final meeting to approve 
+	these deliverables, some stakeholders state that the product does not meet their needs. What 
+	should the project manager do?  [41854]
+	A: Demonstrate that the objectives in the project charter have been achieved
+	B: Validate that the deliverables are as requested and close the project
+	C: Demonstrate that the deliverables have been verified and negotiate their approval
+	D: Review the list of stakeholders and determine whether the appropriate individuals joined the 
+	meeting 
+	C	5
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41854
+	55	A team receives outsourced deliverables and determines that they do not meet the agreed-upon 
+	acceptance criteria. What should the project manager references to verify this with the vendor? 
+	[41855]
+	A: Procurement management plan
+	B: Request for proposal (RFP)
+	C: Statement of Work (SOW)
+	D: Inspections
+	C	3
+$$1	PRC	Procurement Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41855
+	56	Two companies decide to merge and some restructuring is required, including workforce layoffs. 
+	The project manager must develop a new organizational chart that will take effect once the merge
+	 is officially announced. What should the project manager ensure?  [41856]
+	A: The risk is included in the risk management plan
+	B: Roles and responsibilities are captured in the resource management plan
+	C: The stakeholder register is captured in the communication management plan
+	D: Constraints are included in the project charter
+	B	5
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41856
+Page 13 of 47	16-Oct-2020
+ 
+
+	57	A project manager meets with a key stakeholder to review the project. The stakeholder points out 
+	several issues with the intermediate deliverables provided so far. The project manager wants to 
+	provide a set of actions to address the stakeholder's concerns. What should the project manager 
+	use to accomplish this? [41857]
+	A: Prioritization matrices
+	B: Affinity Diagram
+	C: Pareto diagrams
+	D: Cause-and-effect diagrams
+	Refer to 8.1.2.4. multicriteria decision analysis tools (prioritization matrix) can be used to identify the key issues and suitable alternatives
+	 to be prioritized as a set of decisions of implementation.
+	A	5
+$$1	QUA	Quality Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41857
+	58	Midway through the project implementation, stakeholders lose confidence in project management
+	 and want to withdraw. What should the project manager use to maintain and improve 
+	relationships with the stakeholders? [41858]
+	A: Interactive communication
+	B: Detailed project status reporting
+	C: Pull communication
+	D: Power/Influence grid evaluation
+	A	3
+$$1	CO	Communication 	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41858
+	59	A project manager is determing the accuracy of the deliverables before closing a project. What 
+	process should be used to determine this and is an input to formalizing acceptance?  [41859]
+	A: Control scope
+	B: Manage quality
+	C: Plan Scope Management 
+	D: Control Quality
+	D	3
+$$1	QUA	Quality Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41859
+	60	A project manager compiling a list of stakeholder discover an interested stakeholder with little to 
+	no authority. How should they manage this stakeholder? [41860]
+	A: Keep Satisfied
+	B: Manage Closely
+	C: Monitor
+	D: Keep Informed
+	D	3
+$$1	STK	Stakeholder Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41860
+Page 14 of 47	16-Oct-2020
+ 
+
+	61	A new project manager is assigned midway through a project. After conducting a project 
+	performance review, the project manager discovers that a supplier is unable to finish the work. At 
+	this stage, switching supplies will carry considerable risk. However, not switching will result in cost
+	 increases and schedule delays. What should the project manager do next? [41861]
+	A: Analyze the impact and formulate a plan
+	B: Identify a new supplier as a replacement in case the issue recurs.
+	C: Help the supplier to resolve the issue and finish the work
+	D: Ask management and the procurement department to resolve the issue
+	D	5
+$$1	PRC	Procurement Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41861
+	62	A project requires five task to complete. Task A begins on day 1 and will take two days to 
+	complete. Task B will take six days to complete and cannot begin until task A is finished. Task C 
+	will take four days to complete. Cannot begin before task A is finished. and must be completed 
+	before task D begins. Task D will take eight days to complete and cannot begin until task B is 
+	finished. Task E will take one day to complete and cannot begin until task D is finished.  What is 
+	the duration of the critical path?  [41862]
+	A: 15 days
+	B: 17 days
+	C: 19 days
+	D: 21 days
+	B	2
+$$1	TME	Time Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41862
+	63	A set of high-impact, repetitive tasks must be executed during a project. What can the project 
+	manager use to ensure that all team members consistently perform these tasks in the same 
+	manner?  [41863]
+	A: Quality metrics
+	B: Quality Controls
+	C: Quality audits
+	D: Quality checklists
+	The question is to ask perform those tass in the same manner, that's about process, not end product. Only quality audit fit the purpose.
+	C	3
+$$1	QUA	Quality Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41863
+	64	During a project team meeting, a team member suggests an enhancement that falls outside of the
+	 project charter. The project manager states that the team needs to concentrate on completing all 
+	required work. Which action has the project manager performed?  [41864]
+	A: Scope creep
+	B: Change management
+	C: Conflict resolution
+	D: Scope management
+	D	5
+$$1	SCO	Scope Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41864
+Page 15 of 47	16-Oct-2020
+ 
+
+	65	At the first team meeting, the project manager uses the risks noted in the project charter as a 
+	starting point for developing the risk register. After identifying the risks, what should the project 
+	manager do next?  [41865]
+	A: Calculate the management reserve
+	B: Develop contingent response strategies
+	C: Propose a probability and impact matrix
+	D: Perform quantitative risk analysis
+	C	5
+$$1	RSK	Risk Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41865
+	66	In an ongoing project, there are frequent technical disagreements among team members and the 
+	lead. What conflict management technique should the project manager use to resolve this?  
+	[41866]
+	A: Compromise/reconcile
+	B: Collaborative/problem solve
+	C: Withdrawal/avoid
+	D: Force/Direct
+	It seems an emergency situation and using Force is the best answer.
+	D	5
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41866
+	67	In an balance matrix organizational, a project worth USD 20 million is undergoing, a subject 
+	matter expert is being taken out from the team by their department. In order to complete this 
+	project on schedule, what should the project manager do?  [41867]
+	A: Update resource management plan.
+	B: Negotiate with the department to replace with another subject matter experts.
+	C: Escalate such issue to a direct manager for that department
+	D: Put such issue to Project Management Office (PMO)
+	in order to complete on schedule, PM should acquire sufficient staff rather than wait. Using negotiation as tool is the best answer.
+	B	2
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41867
+	68	Although previously identified project risks have not yet materialized, a project appears to be in 
+	trouble. The project manager implements the appropriate risk responses, but these fails to bring 
+	the project back on track. What should the project manager do next?  [41868]
+	A: Transfer the risks
+	B: Update the risk register
+	C: Request a risk audit
+	D: Analyze the risks
+	C	4
+$$1	RSK	Risk Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41868
+Page 16 of 47	16-Oct-2020
+ 
+
+	69	An experienced project manager is preparing a kick-off meeting for a new service assessment. A 
+	high-level description of the service has been provided. What should the project manager do next?
+	 [41869]
+	A: Develop the project charter
+	B: Develop the responsible, accountable, consult and inform (RACI) matrix
+	C: Define the project scope statement
+	D: Create the work breakdown structure 
+	A	3
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41869
+	70	Midway through implementation of a construction project, a supplier fails to deliver cement and 
+	jeopardizes the project schedule. The construction team leader asks the project manager to 
+	implement a contingency plan. What action should the project manager take?  [41870]
+	A: Inform project stakeholders of the risk occurrence
+	B: Implement a work around
+	C: Refer to the risk register
+	D: Brainstorm with the team
+	C	3
+$$1	RSK	Risk Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41870
+	71	A project is being audited to ensure compliance with organization policies. What process is being 
+	conducted?  [41871]
+	A: Audit Schedule
+	B: Plan Quality Management 
+	C: Control Quality
+	D: Manage Quality
+	D	4
+$$1	QUA	Quality Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41871
+	72	A project manager for a 12-month project has a budget of US$2 million. The project's first three 
+	months indicate a cost to date of US$500,000, an actual cost of US$550,000. and an earned value 
+	(EV) of US$525,000.  What is the project's current status?  [41872]
+	A: Ahead of schedule and under budget
+	B: Ahead of schedule and over budget
+	C: Behind Schedule and over Budget
+	D: On Schedule and under budget
+	B	3
+$$1	COS	Cost Management	2:	P	Planning	3:	EVM Cals	All Calculations EVM, 
+	eco_task_abbrev	Hints
+	41872
+	73	A project's original budget a completion (BAC) was calculated as US$100,000, but the estimate at 
+	completion (EAC) is US$120,000. If the schedule performance index (SPI) is equal to 1, what is the 
+	cost performance index (CPI)? [41873]
+	A: Equal to 1.2
+	B: Less than 1
+	C: Equal to 1
+	D: Greater than 1
+	B	3
+$$1	COS	Cost Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41873
+Page 17 of 47	16-Oct-2020
+ 
+
+	74	Because critical distribution needs were not identified and considered an upcoming product is 
+	cancelled one day before the announced launch. What should have been better developed to 
+	prevent this? [41874]
+	A: Stakeholder engagement plan
+	B: Scope management plan
+	C: Risk management plan
+	D: Communications management plan
+	A	5
+$$1	STK	Stakeholder Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41874
+	75	Due to increased price volatility, a vendor asks the project manager to make a price change that 
+	will affect the project contract. What should the project manager do next?  [41875]
+	A: Ask the change control board for approval
+	B: Execute the approved change
+	C: Evaluate the impact, then update the risk register, procurement management plan and budget
+	D: Submit a change request and analyze the impact
+	D	5
+$$1	PRC	Procurement Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41875
+	76	After completing a project schedule, the project manager learns that the sponsor wants an earlier 
+	completion date without incurring additional costs. What technique can the project manager use 
+	to meet these requirements? [41876]
+	A: Resource leveling
+	B: Fast Tracking
+	C: Monte Carlo Simulation
+	D: Crashing
+	B	3
+$$1	TME	Time Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41876
+	77	A project manager is reviewing work performance data in preparation for the Close Project 
+	process. The data reveals that one of the deliverables was not accepted. The estimated work 
+	required to complete acceptance of the deliverable will delay the project completion date by two 
+	months. What should the project manager do next?  [41877]
+	A: Allocate the contingency reserve to procure resources needed for completion
+	B: Update the scheduel and perform the work
+	C: Issue a change request for review by the change control board
+	D: Update the watch list in the risk register
+	this is a change of project plan so to issue a change request and let the board to consider the impact and make decision.
+	C	5
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41877
+Page 18 of 47	16-Oct-2020
+ 
+
+	78	A project manager invities the new CIO to a meeting to review a projects key deliverables, 
+	milestones and roles and responsibilities. What is the project manager's purpose for this [41878]
+	A: Identifying stakeholders
+	B: Developing the project charter
+	C: Minimizing stakeholder resistance
+	D: Planning communication management
+	A	5
+$$1	STK	Stakeholder Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41878
+	79	An internal team has been selected to develop the company's online store. The project sponsor 
+	has a general idea of what the company wants, but there are no detailed requirements other than 
+	the defined objective. Because of this iteration, the team decides to use an agile approach. During 
+	the closing session of the spring, what should the scrum master do to ensure qualiy? [41879]
+	A: Use a burn down chart to verify that the team is worrying according to the planned effort
+	B: Identify what went well during the last sprint and what can be done differently
+	C: Review the daily scrum briefs to identify potential undocumented risks
+	D: Meet with the project sponsor to review each functionality after its release
+	B	3
+$$1	AGI	Agile	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41879
+	80	Some company board of director members feel that the organization does not possess the 
+	capabilities to handle the scope and complexity of its projects. As a result, they request an 
+	external audit of pass project performances. The project management office (PMO) asks previous 
+	project managers about their availability to answer questions for the audit. What else does the 
+	PMO need? [41880]
+	A: Performance reports
+	B: Enterprise environmental factors
+	C: Organizational strategy plan
+	D: Project documents
+	A	5
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41880
+	81	A team member realizes that a technical updates wil improve a product's performance. What 
+	should the team member do before implementing the update?  [41881]
+	A: Include new scope in the work breakdown structure(WBS)
+	B: communicate with the project manager 
+	C: Document the change in the issue log
+	D: Generate a change request 
+	D	4
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41881
+Page 19 of 47	16-Oct-2020
+ 
+
+	82	The implementation of a large financial management software application has been successfully 
+	completed. The project manager is preparing to transfer the product to the IT support team. What
+	 is the support team responsible for after the hand-off is approved? [41882]
+	A: Maintenance the application end supporting users with software issues
+	B: Owning any pending project deliverables approved by the project's steering committee
+	C: Providing application training to the finance department
+	D: Working with the project team to prepare the applications user manuel
+	A	5
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41882
+	83	A team is working on a project to address a customer's incomplete records. A list of customer's 
+	files is created and the team begins work. During the project, a key stakeholder asks that another 
+	small group of incomplete recoreds be added to the list. What should the project manager do? 
+	[41883]
+	A: Refuse the request
+	B: Add the small group of records to the list
+	C: Make a decision based on the project sponsor's opinion
+	D: Issue a change request, and evaluate the impact with the project team
+	D	4
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41883
+	84	A complex project is closing and many project team members report negative experiences. The 
+	project stakeholders from various areas of the organization may never work together again. As 
+	part of the project's requirements, the project manager must provide lessons learned. How should 
+	the project manager ensure this requirement is met? [41884]
+	A: Document only the negative experiences so that alternative approaches can be developed for 
+	future project
+	B: Facilitate a session with the project team to review only positive experiences.
+	C: Reach out to each project stakeholder to capture their feedback on experiences from each 
+	phase of the project.
+	D: Initiate documentation of both the positive and negative experiences using the issue log and 
+	record of escalation.
+	D	3
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41884
+	85	While preparing the resouce management plan. A project manager learns that the organization is 
+	unable to provide sufficient staff with the required skills. What should the project manager do? 
+	[41885]
+	A: Wait until the organization recruits permanet staff with the required skills
+	B: Hire invididual consultants
+	C: Review the project scope
+	D: Provde training to the existing staff
+	hiring is the only viable solution. Training is for develop project team, not acquing project team. Wait is not a good answer as in acquire 
+	project team process.
+	B	5
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41885
+Page 20 of 47	16-Oct-2020
+ 
+
+	86	Because a project is behind schedue, the sponsor suggests reducing the time for quality assurance 
+	testing. What should the project manager do?  [41886]
+	A: Perform quality control measurements
+	B: Follow the quality management plan
+	C: Perform Quality Audits
+	D: Change the quality requirements
+	Alghough the sponsor is suggesting reducing time for QA, however, a pm should reivew the whole quality plan to see if the quality 
+	activity is effective. Perform quality audit is the best answer.
+	C	5
+$$1	QUA	Quality Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41886
+	87	During Scope verification meetings, an end user often rejects the same type of deliverables, 
+	although many of the requirements are met. After conducting a root cause analysis, the project 
+	manager learns that a specific quality control process was not performed due to lack of resources. 
+	What should the project manager  have done to avoid this?  [41887]
+	A: Created quality checklists
+	B: Ensure that quality was managed
+	C: Held quality control process meetings
+	D: Requested more resources for quality control activities
+	A	5
+$$1	QUA	Quality Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41887
+	88	A lengthy, ongoing project exhausts a project team. Due to deadline issues, the project manager 
+	needs to encourage team members. What should the project manager do?  [41888]
+	A: review the project charter and propose extending the project schedule
+	B: provide more recognition and rewards to team members
+	C: Discuss the situation with the team
+	D: Request additional resources
+	B	5
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41888
+	89	BAC: USD9K, EV: 1K, AC: 1.5K, PV: 1.2K. According to this, what is the EAC for this project and 
+	what does it represent?  [41889]
+	A: US$9K - the original project budget
+	B: US$13.5K - the revised estimate for total project cost (based on performance to date)
+	C: US$13.5K - the original project budget
+	D: US$9K - the revised estimate for total project cose (based on the performance to date)
+	EAC for original budget: AC + (BAC-EV) = 1.5+(9-1) = 9.5K
+	EAC for performance to date: BAC/CPI, 9/(1/1.5)
+	9/0.6666.  13.5K
+	B	5
+$$1	COS	Cost Management	2:	M	Monitoring_and_Con	3:	EVM Cals	All Calculations EVM, 
+	eco_task_abbrev	Hints
+	41889
+Page 21 of 47	16-Oct-2020
+ 
+
+	90	In the late stage of project planning, a project manager develops a risk response plan with subject 
+	matter experts(SMEs) and project team members. The team identifies additional efforts required 
+	to mitigate the risk of poor quality in some deliverables. What should the project manager do?  
+	[41890]
+	A: Update the project and quality management plans to reflect the added efforts.
+	B: Conduct a make-or-buy analysis to determine the best option
+	C: document the additional efforts in the organizational process asset 
+	D: Generate a change request for approval of the added costs associated with the added efforts.
+	D	5
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41890
+	91	A project team member address an issue and decided to do the workaround, but did not notice 
+	the project manager, two weeks later, a similar issue occurred and impacting the project. Which of
+	 below should be done to prevent such issue happens again?  [41891]
+	A: organizational process asset 
+	B: RAM
+	C: root cause analysis
+	D: Update risk register
+	C	3
+$$1	RSK	Risk Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41891
+	92	A new project requires resource with specific skills and competencies from various company 
+	departments. Since most company staff are already assigned to other projects. The project 
+	manager must identify and agree on availables internal human resources, and hire external 
+	experts. What should the project manager use first to obtain resources?  [41892]
+	A: Negotiation skills
+	B: Acquisition skills
+	C: Individual and team assessment ools
+	D: Requirements analysis tool
+	A	5
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41892
+	93	A project team discovers an opportunity to enhance software without impacting the budget or 
+	schedule. The team makes the enhancement without proper documentation. Which later causes 
+	production issues. What process should have been conducted to prevent this?  [41893]
+	A: Control Schedule
+	B: Perform Qualitative Risk Analysis
+	C: Plan Scope Management
+	D: Perform integrated Change Control
+	D	2
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41893
+Page 22 of 47	16-Oct-2020
+ 
+
+	94	A preventive action is approved by the change control board(CCB) What should the project 
+	manager do next? [41894]
+	A: Implement the action
+	B: Add a contingency reserve for the risk
+	C: Request the project sponsor's authorization
+	D: Issue a change request
+	A	4
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41894
+	95	A project manager estimates project costs and uses three different estimates to assess the 
+	approximate cost for an activity. What type of estimating technique did the project manager use? 
+	[41895]
+	A: Bottom-up
+	B: Beta distribution
+	C: Analogous
+	D: Parametric
+	B	3
+$$1	TME	Time Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41895
+	96	After defining project goals and objectives for a technology change initiative, a company holds a 
+	meeting with key stakeholders to align expectations. What result indicates that this initiative is 
+	moving forward correctly?  [41896]
+	A: Business Case
+	B: Kick-off Meeting
+	C: Statement of Work (SOW)
+	D: Key Deliverables
+	D	5
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41896
+	97	While working on a project, the project team realizes that recent data center upgrades could 
+	impact the project's outcome. Certain modules of the project deliverable are incompatible with 
+	the new environment. The team identifies the appropriate steps to address the issue. What is the 
+	next step for the project manager?  [41897]
+	A: Request a budget increase
+	B: Submit a change request
+	C: Change the project schedule
+	D: Update the requirement document
+	B	2
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41897
+Page 23 of 47	16-Oct-2020
+ 
+
+	98	While preparing a project charter for a new project, a project manager reviews lessons learned 
+	from previous projects The lessons learned documents show frequent issues with low engagement
+	 levels and stakeholder misalignment on project objectives. What should the project manager do 
+	to avoid repetition of this issue in the new project?  [41898]
+	A: Allow any stakeholder to join the change control board at any time in the project
+	B: include all stakeholders in the responsibility assignments matrix (RAM) for acceptance of the 
+	deliverables
+	C: father all the requirements provided by everyindividual stakeholders and include in the work 
+	breakdown structure
+	D: Build a common understanding among stakeholders on deliverables in the approved charter
+	D	3
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41898
+	99	A project is using multiple vendors. What document should the project manager use to classify the
+	 various project documents in order to protect a vendor's proprietary information? [41899]
+	A: communication management plan
+	B: SOW
+	C: Procurement management plan
+	D: project management information system (PMIS)
+	Communication Management plan contain how to dealing with confidential information.
+	A	4
+$$1	PRC	Procurement Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41899
+	100	The project sponsor is inappropriately requesting status reports from individual team members. 
+	The project manager plans to meet with the sponsor to discuss the issue. To what should the 
+	project manager refer prior to the meeting?  [41900]
+	A: communication management plan
+	B: risk management plan
+	C: project charter
+	D: work performance reports
+	The question is asking to discuss the issue of "requesting status report from individual team members". This is about communication 
+	planning that to satisfy the stakeholder's informtaion need. Work performance report might be able to satisfy the sponsor need but PM 
+	should review communicaiton management plan. To correct the process if necessary.
+	A	5
+$$1	CO	Communication 	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41900
+	101	Prior to the implementation of a system upgrade, a team member discovers a critical defect in the
+	 current system that must be fixed. What should the project manager do?  [41901]
+	A: implement the fix and install it with the upgrade
+	B: Notify the operational manager as this is not a project issue
+	C: Take no further actions since the project scope has been finalized
+	D: Notify the project sponsor and execute the Perform Integrated Change Control process
+	D	3
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41901
+Page 24 of 47	16-Oct-2020
+ 
+
+	102	A steering committee agrees to remove a project requirement. What plan should the project 
+	manager consult?  [41902]
+	A: change management
+	B: project management
+	C: requirements management
+	D: scope management
+	any change in requirement should review the requirement management plan first.
+	C	2
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41902
+	103	A design project is ready to be transferred to production. What activity is required for phase 
+	closure?  [41903]
+	A: Determine summary budget
+	B: Manage quality
+	C: Ensure preventive actions are completed
+	D: Record impacts of tailoring to any process
+	D	4
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41903
+	104	During project execution, a project manager learns that a team member's functional manager 
+	believes they should not execute a certain task. What document should the project manager 
+	review to resolve this?  [41904]
+	A: Responsibility Assignment Matrix
+	B: Work Breakdown structure
+	C: organizational chart
+	D: Resource management plan
+	The question is asking document. RACI is a matrix but not a document. Resource management plan is.
+	D	4
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41904
+	105	While developing the cost management plan, the project manager discovers that the budget 
+	needed for a major deliverable is significantly higher than the sponsor's expectation. What should 
+	the project manager do next?  [41905]
+	A: Discuss the cost difference with the sponsor
+	B: Decrease the project's scope
+	C: Complete the cost estimation for all deliverables in the project plan
+	D: Log the risk of exceeding the budgeting in the risk register
+	C	5
+$$1	COS	Cost Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41905
+Page 25 of 47	16-Oct-2020
+ 
+
+	106	During each phase, what should a project manager do to avoid the reoccurrance of a consistent 
+	issue?  [41906]
+	A: Record it in the project closure report
+	B: Manage quality
+	C: Conduct lesson learned
+	D: Complete a work performance report
+	lesson learned is used to avoid same issue happening again.
+	C	2
+$$1	INT	Integration Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41906
+	107	During the project initiation phase, the project manager is identifying the key deliverables based 
+	on the project's business requirements. The project manager believes that the timeline is 
+	unrealistic due to the high number of key deliverables. What tool or techniques should the project 
+	manager to prioritize the key deliverables. [41907]
+	A: Rolling wave planning
+	B: Decision tree analysis
+	C: Expert judgement
+	D: Assumption and constrain analysis
+	C	5
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41907
+	108	While preparing for project hand over to the operations team, the project manager discovers that 
+	an audit report from an early project phase is missing. What should the project manager do?  
+	[41908]
+	A: Update the project documents
+	B: Ask the operations team to accept the project without the audit report
+	C: inform the operations team about the missing audit report
+	D: Update the project management plan to remove the audit report from the required project 
+	document list.
+	Check video.
+	A	5
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41908
+	109	A project manager must evaluate and simulate the impact of a list of risks for a project's duration. 
+	What should the project manager do? [41909]
+	A: Conduct a what-if scenario analysis
+	B: Prepare a set of contingent response strategies
+	C: Complete an expected monetary value (EMV) analysis
+	D: Perform a schedule network analysis
+	A	4
+$$1	RSK	Risk Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41909
+Page 26 of 47	16-Oct-2020
+ 
+
+	110	A project's most recent status report indicates a schedule performance index (SPI) of 1.1 and a 
+	cost performance index (CPI) of 1.2. A key stakeholder then suggests a change to include a value-
+	added feature that would not impact project schedule and cost. What should the project manager 
+	do next?  [41910]
+	A: Evaluate the change's impact with the team
+	B: Advise the stakeholder that changes should not be implemented when a project is behind 
+	schedule.
+	C: Update the project management plan to include the new feature
+	D: Advise the stakeholder that, since the project is under budget, the feature will be added
+	A	3
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41910
+	111	A key stakeholder misses a project kick-off meeting. The project manager arranges a separate 
+	meeting to ensure that the stakeholder understands that the projects expected business value 
+	aligns with the organizational strategy. What are they key areas that should be reviewed? [41911]
+	A: Cost, schedule, risks and work breakdown structure
+	B: Goals, objectives, benefits and risk
+	C: Benefits, effort and resources
+	D: schedule, benefits and WORK BREAKDOWN STRUCTURE
+	B	4
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41911
+	112	During the deployment of a new system, an unexpected power outage occurs. What should the 
+	project manager do? [41912]
+	A: Perform a qualitative risk analysis
+	B: Assess the risk probability and impact
+	C: Categorize the risk, and update the assumption log
+	D: Refer to the risk register, and inform key stakeholders
+	D	5
+$$1	RSK	Risk Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41912
+	113	A company has a history of implementing system integration projects using their in-house 
+	software with a vendor hardware infrastructure. A project manager, new to the company, has no 
+	prior experience with vendor integration projects. What should the project manager do?  [41913]
+	A: Refer to the project statement of work
+	B: Review project charter
+	C: Seek expert judgement
+	D: Meet with the sponsor
+	C	5
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41913
+Page 27 of 47	16-Oct-2020
+ 
+
+	114	To begin transitioning the final deliverables to the client, a project manager develops the project 
+	closure documentation. What should be used to develop the project closure documentation?  
+	[41914]
+	A: project management plan and preliminary releases
+	B: Accepted deliverables and preliminary releases
+	C: organizational process asset and project management plan
+	D: Accepted deliverable and project charter
+	Closure documentation should containt accepted delivearbles as it includes the outcome description. Project Charter contain success 
+	crieteria.
+	D	5
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41914
+	115	A company has recurring quality issues with one of its sole-source suppliers. A new project will 
+	incur significant penalties from the customer if deliverables are late. What should the project 
+	manager do? [41915]
+	A: Review incoming inspection reports and quality logs
+	B: Negotiate with other vendors with better quality-control methods
+	C: identify high-level risks and to develop contingency plans
+	D: Escalate this issue to senior management
+	A	5
+$$1	QUA	Quality Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41915
+	116	A project's deliverables due date is approaching, but one team member's performance is 
+	negatively impacting the schedule. What should the project manager do?  [41916]
+	A: Acquire a more skilled resource
+	B: Remove the team member from the project
+	C: Mentor the team member
+	D: Ask the team member's line manager to provide training
+	C	4
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41916
+	117	A project manager leading the implementation of a company's new financial system needs to 
+	evaluate the system's quality. What can the project manager use to understand the project's 
+	quality metrics and policies? [41917]
+	A: Quality control measurements
+	B: Process analysis
+	C: Quality management plan
+	D: Quality Audit
+	C	3
+$$1	QUA	Quality Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41917
+Page 28 of 47	16-Oct-2020
+ 
+
+	118	Due to stakeholders' schedule commitments, an expansion project is being fast tracked. Some 
+	construction activities must be initiatied before all basic scope specifications are completely 
+	developed. What type of construction contract should the procurement manager negotiate? 
+	[41918]
+	A: Cost plus fixed fee (CPFF)
+	B: Cost plus incentive fee (CPIF)
+	C: Firm Fixed Price (FFP)
+	D: Fixed Price Incentive Fee (FPIF)
+	B	4
+$$1	PRC	Procurement Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41918
+	119	A new project manager resumes a project in its execution phase. During a project status meeting, 
+	a team member reports an issue shared by a stakeholder. What should the new project manager 
+	do?  [41919]
+	A: Review the issue log
+	B: Advise the project team to immediately address the issue
+	C: Review the stakeholder engagement plan
+	D: Update risk management plan
+	A	3
+$$1	STK	Stakeholder Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41919
+	120	An external provider is late with the delivery of a finished item. As a measure of goodwill and to 
+	maintain the project schedule. The provider offers to bear the cost of renting a temporary system. 
+	Since no schedule slippage will occur. What should the project manager do next?  [41920]
+	A: Account for this additional resource in the work brekdown structure
+	B: Take no further actions because there is no schedule slippage
+	C: Conduct the Perform Integrated Change Control process
+	D: Update the project documents
+	C	5
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41920
+	121	A strike at a contracted production plant affects the delivery of a project's major deliverable and 
+	impacts project objectives. To what should the project manager refer to address this issue?  
+	[41921]
+	A: Standardize bid documents
+	B: Managing multiple suppliers documents
+	C: Procurement statement of work (SOW)
+	D: Risk Response plan
+	D	5
+$$1	PRC	Procurement Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41921
+Page 29 of 47	16-Oct-2020
+ 
+
+	122	What can a project manager do to communicate the formal project announcement and relevant 
+	information to stakeholders and then gain their commitment?  [41922]
+	A: Create the project charter
+	B: Conduct a kick-off meeting
+	C: Develop the communication management plan
+	D: Prepare and distribute the RACI matrix
+	B	3
+$$1	INT	Integration Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41922
+	123	A project manager is working on a software implementation project for which a well-defined 
+	change management plan is in place. During project execution, a software developer notices that 
+	an untested and unapproved security patch needs to be installed or the system will become 
+	unstable. What should the project manager do?  [41923]
+	A: Immediately install the patch so that implementation can proceed
+	B: Update the risk register
+	C: Consult with the project sponsor
+	D: Schedule a meeting per the change management plan
+	D	3
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41923
+	124	During the initiation phase, a project manager dentifies a key stakeholder with a high level of 
+	interest and influence in the project. What should the project manager do to manage this 
+	stakeholder?  [41924]
+	A: invite the stakeholder to be part of the project management team
+	B: Update the stakeholder engagement assessment matrix
+	C: invite this stakeholder to subject matter experts meetings
+	D: Analyze the impact and devise a strategy
+	B	4
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41924
+	125	A project meets time and cost targets, and the project sponsor approves the deliverable as 
+	meeting all quality requirements. The project manager proceeds to finalize the external supplies' 
+	contracts. What should the project manager have already completed?  [41925]
+	A: Obtaining customer acceptance of the deliverable
+	B: Financial closure
+	C: Administrative closure
+	D: Lesson learned
+	Admin closure is correct as per exam content outline, admin closure come before finance closure.
+	C	4
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41925
+Page 30 of 47	16-Oct-2020
+ 
+
+	126	Two team members have continuing conflicts that affect team morale. What should the project 
+	manager do to resolve the conflicts?  [41926]
+	A: Remove both team members from the team
+	B: Remove one of th team members from the team
+	C: Discuss a resolution with all team members
+	D: Work with each team member using a direct and collaborative approach
+	refer 9.5 managing project team, direct and collaborative approach is the best answer.
+	D	3
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41926
+	127	A supplier delivers most of a project's functional requirements, but a few minor, latent defects 
+	require correction before the contracted payment can be made. Since the company's financial year
+	 end is approaching. What should the project manager do?  [41927]
+	A: Claim penalties for the value of the outstanding payment
+	B: Arrange an extended financial project close until contract closure is completed
+	C: Reduce the contract value, and convert the outstanding amount to a service order
+	D: Pay the supplier in return for a written commitment to complete the work
+	A	5
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41927
+	128	What information should a project manager request before developing a project management 
+	plan?  [41928]
+	A: organizational process asset 
+	B: requirement documentation
+	C: Milestone Schedule
+	D: work Performance data
+	C	4
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41928
+	129	An experienced project manager is assigned to a project that could fail to meet its goals and 
+	objectives. What should the project manager do to decrease the likelihood of this happening?  
+	[41929]
+	A: Actively manage stakeholder involvment
+	B: Review change control procedures
+	C: Manage Quality
+	D: Regularly update lessons learned communication
+	C	5
+$$1	QUA	Quality Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41929
+	130	A project manager identifies the root cause of a quality issue and implements corrective action. 
+	What should the project manager do next?  [41930]
+	A: Conduct an inspection of an issue
+	B: Update the lessons learned documentation
+	C: Revise the checksheets and organize the facts
+	D: Perform a variance analysis
+	D	5
+$$1	QUA	Quality Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41930
+Page 31 of 47	16-Oct-2020
+ 
+
+	131	After preparation of the project management plan, the project manager schedules a meeting with 
+	key stakeholders. What part of the project will this complete?  [41931]
+	A: Evaluation
+	B: Planning
+	C: Initiation
+	D: Function
+	B	2
+$$1	INT	Integration Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41931
+	132	During a project's execution phase, the project manager receives notice from environmental 
+	authorities to stop work. What should the project manager have done to avoid this?  [41932]
+	A: Defined a detailed scope of work
+	B: Developed a comprehensive project management plan
+	C: Identified project risks
+	D: Identified stakholders
+	D	3
+$$1	STK	Stakeholder Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41932
+	133	An approved change request adds an incentive to a lump sum contract if the contractor is able to 
+	maintain the current baseline schedule. What should now be updated?  [41933]
+	A: Scope baseline
+	B: Project management plan
+	C: Cost baseline
+	D: Schedule baseline
+	B	5
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41933
+	134	A stakeholder status review meeting is scheduled for the same time every week. The stakeholders 
+	are geographicallly dispersed. What should the project manager do to ensure effective 
+	communication? [41934]
+	A: Consider time zones and language standards
+	B: Record meetings for global distribution
+	C: Distribute emails and presentation
+	D: Encourage informal communications
+	A	3
+$$1	CO	Communication 	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41934
+	135	A nation is sending a satelite into orbit for the first time. The design and build of the satelite is 
+	subject to schedule and cost constraints. On what should the project manager focus? [41935]
+	A: controlling the cost and schedule
+	B: Continuously reviewing the risk management
+	C: Assigning additional resources to meet project deadlines
+	D: Informing national stakeholders on project status
+	A	2
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41935
+Page 32 of 47	16-Oct-2020
+ 
+
+	136	A project manager is assigned to start the charter of an IT project and review the process inputs. 
+	However, the project manager realizes that the business case does not have adequate support. 
+	What should the project manager do to resolve this siutation?  [41936]
+	A: Notify the project sponsor
+	B: Hire an external subject matter experts 
+	C: Request that the business analysis team perform an evaluation
+	D: Propose a review of the lessons learned in simular projects
+	D	5
+$$1	INT	Integration Management	2:	I	Initiating	3:	ECO - Ini	Early Stage of project
+	eco_task_abbrev	Hints
+	41936
+	137	A project has been ongoing for a year. Early in the year, its schedule performance index (SPI) was 
+	1.2. its most recent SPI is 0.7. What did the project manager use to track and communicate this 
+	information?  [41937]
+	A: Project communications
+	B: Project management information system (PMIS)
+	C: Performance Reporting
+	D: Variance Analysis
+	C	4
+$$1	COS	Cost Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41937
+	138	A project execution phase overlaps with a holiday in the country where the majority of team 
+	member are based. This phase is critical, and all team members are required to work through the 
+	holiday. This negatively impacts team morale. What should the project manager have done to 
+	avoid this?  [41938]
+	A: Requested help from other teams based in other countries
+	B: Postponed porject activities
+	C: Prepared the stakeholder engagement plan
+	D: Better developed the resource management plan
+	D	4
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41938
+	139	A project manager realizes that a new government regulation effects the current project, and to 
+	be compliant with the new law, the scope of the project should be changed. The team is now 
+	analyzing the impact on the schedule and budget. Which tool or technique should the project 
+	manager have considered before this issue occurred? [41939]
+	A: Stakeholder register
+	B: Stakeholder analysis
+	C: risk management plan
+	D: Risk register
+	B	4
+$$1	STK	Stakeholder Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41939
+Page 33 of 47	16-Oct-2020
+ 
+
+	140	A client adds a new feature and requests a budget update. The development of this feature cannot
+	 extend the project schedule for more than one month. The client has already agreed to a cost per 
+	hour. What should the projec廿 manager do next? [41940]
+	A: Calculate project performance using the earned value management (EVM) method
+	B: Estimate the required number of additional project resources
+	C: Update the resource management plan
+	D: Review the responsibility assignment matrix (RAM)
+	A	5
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41940
+	141	An issue arises on a project. A team member recalls that this issue has occurred before, but cannot
+	 remember the solution. Where is the first place the project manager should look to find the 
+	solution?  [41941]
+	A: organizational process asset 
+	B: checklists
+	C: Escalation procedures
+	D: organizational policies
+	A	3
+$$1	INT	Integration Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41941
+	142	A project is ready to complete the planning process and all planning documents have been 
+	reviewed and approved by stakeholders. What should the project manager do next?  [41942]
+	A: Conduct a kick-off meeting
+	B: Create the schedule baseline
+	C: Acquire the resource
+	D: Determine the budget
+	A	2
+$$1	INT	Integration Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41942
+	143	A project manager assumes a three-year, multiphase project with tight timeframe. Stakeholder 
+	schedules permit times for addressing only essential activities. How should the project manager 
+	handle upcoming the lesson learned?  [41943]
+	A: Schedule lesson learned meetings at the end of each phase
+	B: Wait to gather lesson learned until the end of each year
+	C: Periodically seek feedback on lesson learned
+	D: Fast track the project by gathering lesson learned only at the end of the project
+	C	4
+$$1	INT	Integration Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41943
+	144	A project status root report shows that the earned value (EV) is 24.5, the schedule performance 
+	index (SPI) is 0.92, and the cost performance index (CPI) is 1.08. in what area should the project 
+	manager implement corrective actions?  [41944]
+	A: Resource management
+	B: Project schedule
+	C: Project cost 
+	D: Stakeholder engagement
+	B	3
+$$1	COS	Cost Management	2:	P	Planning	3:	EVM Cals	All Calculations EVM, 
+	eco_task_abbrev	Hints
+	41944
+Page 34 of 47	16-Oct-2020
+ 
+
+	145	A project manager notices an unusually high rate of risks but has limited resources to address 
+	them. To what should the project manager refer to determine risk priorities? [41945]
+	A: Risk breakdown structure
+	B: Risk probability and impact matrix
+	C: Risk management plan
+	D: Risk mitigation strategy
+	B	4
+$$1	RSK	Risk Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41945
+	146	A project manager forwards the project team a report which includes a summary of the approvd 
+	changes in the period. What document should be updated next?  [41946]
+	A: Quality Management Plan
+	B: Project Management Plan
+	C: Cost Management Plan
+	D: Risk Management Plan
+	Project Management Plan contain project baselines but other object contain no baseline. Baseline update are the main source of 
+	changes.
+	B	4
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41946
+	147	A project manager receives an approved change request related to a project's governance 
+	framework. What should the project manager do to implement this change?  [41947]
+	A: Revisit the plan project process and update all planning documents affected by the change
+	B: Re-estimate the durations of project activities affected by the change
+	C: Put the project on hold until the impact of the change can be assessed
+	D: Submit the change request to the project sterring committee for approval
+	A	5
+$$1	INT	Integration Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41947
+	148	A global project is meeting schedule, scope, and cost requirements Then, a labour strike in one of 
+	the countries causes a key resource to become unavailable. How can the project manager resolve 
+	this?  [41948]
+	A: Allow the team to work overtime
+	B: Negotiate a schedule extension with the customer
+	C: implement the planned risk responses
+	D: Update the risk management plan
+	C	5
+$$1	RSK	Risk Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41948
+Page 35 of 47	16-Oct-2020
+ 
+
+	149	A demanding project stakeholder insist that an additional feature be added to project product 
+	without changing the scope, budget or schedule. The project manager allows this feature to be 
+	included since it adds great value to the end product. However, this lenghtens the project 
+	schedule and increase project cost. Which process should the project manager have followed 
+	before including the additional product feature? [41949]
+	A: Change management 
+	B: Schedule and cost management 
+	C: Product scoping
+	D: requirement definition
+	A	4
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41949
+	150	A project manager discusses a project's status with the customer. The customer expresses the 
+	need for a new system that is not part of the current project scope. What should the project 
+	manager do next?  [41950]
+	A: Evaluate the customer's needs as part of the Perform Integrated Change Control process
+	B: Update the project scope baseline and work breakdown structure 
+	C: inform the project sponsor of the cost and schedule impacts
+	D: Update the requirements management plan
+	A	4
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41950
+	151	In a control chart, three measurement points in a process are below the mean and within control 
+	limits. Four measurement points are above the mean and outside the control limis. How is this 
+	process performing?  [41951]
+	A: The process is out of control
+	B: The process is under the seven-point rule
+	C: The process is within specification limits
+	D: The process is under control
+	A	3
+$$1	QUA	Quality Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41951
+	152	A project manager is working on a complex project with multiple team members and sponsors. 
+	What should the project manager do before obtaining project approval and buy-in?  [41952]
+	A: Complete a stakeholder analysis
+	B: Meet with the stakeholders
+	C: Conduct a SWOT analysis
+	D: Perform a risk analysis
+	A	3
+$$1	STK	Stakeholder Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41952
+Page 36 of 47	16-Oct-2020
+ 
+
+	153	At the completion of the project, customer agreement cannot be achieved through negotiations. 
+	What should the project manager do next?  [41953]
+	A: Inform project team members
+	B: initiate litigation since all work was completed
+	C: Start the closing phase
+	D: Explore arbitration
+	D	3
+$$1	PRC	Procurement Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41953
+	154	A critical project has been ongoing for the past three years. A key contributor has just left the 
+	organization. What should the project manager do next?  [41954]
+	A: Update the project management plan
+	B: Add this to the issue log
+	C: Update the stakeholder register
+	D: Meet with the sponsor
+	C	3
+$$1	STK	Stakeholder Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41954
+	155	A company is using Lean Six Sigma methdology on a project Midway through the project. An 
+	external Lean consultant is invited to conduct an audit to ensure that the methdology is being 
+	properly applied. Which process is being employed?  [41955]
+	A: Manage Quality
+	B: Control Quality
+	C: Perform Qualitative Risk Analysis
+	D: Plan Quality Management
+	A	3
+$$1	QUA	Quality Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41955
+	156	A stakeholder approaches the project manager with a serious concern that impacts the project. 
+	The project maanger records the details. Identifies an owner and set a realistic date for resolution.
+	 What document did the project manager update?  [41956]
+	A: Risk Register
+	B: Change Log
+	C: Stakeholder Register
+	D: issue log
+	D	2
+$$1	CO	Communication 	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41956
+	157	A major project deliverables is completed. What should the project manager and team do to 
+	confirm that specifications have been met?  [41957]
+	A: Check the organizational process asset 
+	B: Validate the quality audit reports
+	C: Verify the scope
+	D: Perform quality control
+	D	3
+$$1	QUA	Quality Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41957
+Page 37 of 47	16-Oct-2020
+ 
+
+	158	During a product's testing phase, the customer discovers that a previously identified defect 
+	reamins unfixed. What should the project manager do?  [41958]
+	A: Review and update the issue log
+	B: Identify and discuss corrective actions within the team
+	C: Assign a team member to fix the issue
+	D: Update the risk register
+	A	4
+$$1	CO	Communication 	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41958
+	159	A project sponsor decides to add a feature to the project that affects the project cost, schedule 
+	and scope. The change is approved by the change control board. Which process governs the 
+	project manager's implementation of the approved change?  [41959]
+	A: Monitor Risks
+	B: Conctrol cost and Schedule
+	C: Direct and Manage Project Works
+	D: Perform Integrated Change Control
+	C	4
+$$1	INT	Integration Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41959
+	160	When conducting procurements, what process should the project manager implement to obtain 
+	stakeholder agreement?  [41960]
+	A: Update Stakeholder Engagement Plan
+	B: Manage Stakeholder Engagement
+	C: Monitor and Control Project Work
+	D: Plan Procurement Management
+	D	5
+$$1	PRC	Procurement Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41960
+	161	A new warehouse facility is under construction. The project manager knows that increasing the 
+	team's training will result in a lower defect ratio. What should the project manager do next?  
+	[41961]
+	A: Introduce a training program
+	B: Update the resource management plan
+	C: Increase quality control reviews
+	D: Add training costs to the budget
+	A	5
+$$1	HR	Human Resources Mgt	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41961
+	162	Before disbanding a project team, the project manager facilitates a lesson learned workshop. 
+	What should the project manager do next?  [41962]
+	A: Send project documents to the stakeholders
+	B: Organize a party to celebrate the project success
+	C: Perform a post-implementation review
+	D: Archive project documents using generally accepting practice
+	C	5
+$$1	INT	Integration Management	2:	C	Closing	3:	ECO - CLOSE	Closure Procedure
+	eco_task_abbrev	Hints
+	41962
+Page 38 of 47	16-Oct-2020
+ 
+
+	163	A project manager is assigned to a project that is in progress. In which of the following documents 
+	would a new project manager find information regarding the scope baseline?  [41963]
+	A: Project management plan
+	B: Project scope statement
+	C: project charter
+	D: project requirements
+	A	2
+$$1	INT	Integration Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41963
+	164	After stakeholder in a company's sales department examined all the deliverables, they state that 
+	there has been a change in the company strategy. Therefore, important changes must be made to 
+	the requirements. The project manager believes that these changes make the deliverables 
+	unusable. What should the project manager do?  [41964]
+	A: Evaluate and incorporate the changes to the project management plan to start executing them
+	B: Evaluate the impact on the project, coordinate with the sponsor and close the project
+	C: Request that stakeholders specify the new requirements and present them to the change 
+	control board.
+	D: Request the details about the new requirement. Review them with the recommendation that 
+	the project team recommended.
+	D	5
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41964
+	165	An issue requires the execution of the project's contingency plan, which impacts the schedule. 
+	What should the project manager do?  [41965]
+	A: Initiate a risk audit
+	B: Issue a change request
+	C: Review the cost impact
+	D: Update the contingency plan
+	B	4
+$$1	RSK	Risk Management	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41965
+	166	A project manager notices that work started by the project team is misaligned with an industry 
+	regulation. The project manager recalls that this topic was previously discussed during a 
+	stakeholder meeting. What should the project manager review?  [41966]
+	A: Organizational process assets
+	B: Work performance data
+	C: Issue Log
+	D: Project management plan
+	C	5
+$$1	INT	Integration Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41966
+Page 39 of 47	16-Oct-2020
+ 
+
+	167	While preparing a project's third progress report, the project manager identifies that the project 
+	will experience delays due to late material deliverables. The two previous project reports indicated
+	 that the project was on track. What should the project manager do next?  [41967]
+	A: Discuss it with the project team to determine the most appropriate way to respond
+	B: Add it to the issue log and include it in the project report.
+	C: Contact the procurement manager to expedite delivery of the material
+	D: Escalate the issue to the project owner 
+	B	5
+$$1	CO	Communication 	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41967
+	168	A project manager conducts weekly, face-to-face meetings with a local project team to obtain 
+	status updates and inform the team of changes. Midway throught he project, a virtual 
+	development team is added to handle some additional scope. Before updating the communication
+	 management plan, what should the project manager do? [41968]
+	A: Schedule a separate weekly call with the virtual development team
+	B: Email the weekly meeting minutes to the virtual development team
+	C: Add a daily teleconference to the schedule
+	D: Update stakeholder register
+	D	4
+$$1	STK	Stakeholder Management	2:	I	Initiating	3:
+	eco_task_abbrev	Hints
+	41968
+	169	An organization has contracts with an external supplier to support a critical part of a project. 
+	Senior management and the project team have differences about what deliverables the external 
+	supplier should provide. What plan should be reviewed to elimiate these differences?  [41969]
+	A: Delivery management plan
+	B: Scope management plan
+	C: Contract management plan
+	D: Procurement management plan
+	D	3
+$$1	PRC	Procurement Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41969
+	170	The project manager of a pipeline project hires a construction contractor using a cost plus fixed 
+	fee (CPFF) contract. The contractor provides the project manager with an estimate of US$50,000 
+	and a fixed-fee amount of US$5,000. When the pipeline is completed, the construction cost is 
+	US$60,000. What amount should the contractor be paid?  [41970]
+	A: US$65,000
+	B: US$60,000
+	C: US$55,000
+	D: US$50,000
+	A	3
+$$1	PRC	Procurement Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41970
+Page 40 of 47	16-Oct-2020
+ 
+
+	171	Company A hires a project manager for Company B's new project. What document does the 
+	project manager need from company B to develop the project charter?  [41971]
+	A: Scope statement
+	B: Statement of Work (SOW)
+	C: Work breakdown structure
+	D: Project management plan
+	B	2
+$$1	PRC	Procurement Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41971
+	172	A project manager develops a risk breakdown structure (RBS) and divides it into four categories. 
+	Later, the team identifies a regulation issue with one of the customer's requirements. In what 
+	category should this new risk be included?  [41972]
+	A: Technical
+	B: Organizational
+	C: External
+	D: Project management plan
+	C	2
+$$1	RSK	Risk Management	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41972
+	173	During a project's execution, a previously unidentified stakeholder within the customer's 
+	organizational requests a change that could affect the project's scope. The stakeholder's influence 
+	within the customer's organizational is strong.  What should the project manager do first?  [41973]
+	A: Schedule a meeting and based on the outcome, update the project management plan
+	B: Issue a change request to the change control board (CCB)
+	C: Identify the new stakeholder and update the stakeholder register
+	D: Meet with all stakeholders to discuss the charter
+	C	3
+$$1	INT	Integration Management	2:	M	Monitoring_and_Con	3:	PICC	Integrated Change 
+	eco_task_abbrev	Hints
+	41973
+	174	While examining the network diagram, a project manager finds resources that are overallocated 
+	to non-critical-path tasks. What should the project manager do to fix this situation?  [41974]
+	A: Crash the schedule
+	B: Perform resource leveling
+	C: Perform a critical path analysis
+	D: Negotiate with management
+	B	2
+$$1	TME	Time Management	2:	M	Monitoring_and_Con	3:
+	eco_task_abbrev	Hints
+	41974
+	175	Two team members argue about who will perform and report the status of a particular task. What
+	 source may be consulted to help resolve this?  [41975]
+	A: work breakdown structure 
+	B: Team members' functional managers
+	C: Responsible, accountable, consult and inform (RACI)
+	D: Sponsor
+	C	3
+$$1	HR	Human Resources Mgt	2:	P	Planning	3:
+	eco_task_abbrev	Hints
+	41975
+Page 41 of 47	16-Oct-2020
+ 
+
+	176	An ongoing cross-functional project has team members located in several different countries, and 
+	stakeholders who provide insufficient support. How can the project manage improves this 
+	situation?  [41976]
+	A: Conduct cross-cutlrual team building activities and assess the results.
+	B: Consult the communications management plan and update the responsibility assignment 
+	matrix (RAM)
+	C: Prepare a chagne request to colocate and more closely manage the team
+	D: Review the stakeholder register, and update the stakeholders engagement assessment matrix
+	A	3
+$$1	HR	Human Resources Mgt	2:	E	Executing	3:
+	eco_task_abbrev	Hints
+	41976
+	177	A new project stakeholder is identified who has interest in, but little authority or influence om, 
+	the project. How should the project manager handle the stakeholder? [43801]
+	A: Provide information to the stakeholder as needed.
+	B: Work closely with the stakeholder to proactively address their concerns.
+	C: Keep track of the stakeholder and respond to their needs.
+	D: Include the stakeholder on standard updates and keep them satisfied.
+	Low power high interest should user keep updated
+	A	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43801
+	178	A project manager is asked to estimate a project using a firm fixed-price (FFP) contract. What 
+	estimating technique should be used? [43802]
+	A: Parametric
+	B: Three-point
+	C: Bottom-up
+	D: Analogous
+	Parametric should be used as most accurate
+	A	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43802
+	179	A project manager discovers an enhancement that will improve the design being developed by a 
+	subject matter expert (SME). What should the project manager do? [43803]
+	A: Document this discovery, and present it to all stakeholders.
+	B: Ask the expert to implement the enhancement.
+	C: Disregard the enhancement, as no changes are allowed.
+	D: Ask the change control board (CCB) to review the enhancement.
+	First document it and meet stakeholders to know their opinion
+	A	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43803
+Page 42 of 47	16-Oct-2020
+ 
+
+	180	A project management team is developing a project management information system (PMIS) as a 
+	collaboration tool for internal and external stakeholders. A dashboard is updated monthly with 
+	information on the project's performance.What type of communication method does this 
+	describe? [43804]
+	A: Corporate intranet
+	B: Interactive
+	C: Project progress reporting
+	D: Pull
+	Dashboard should be a PULL strategy to let people see what they like to see.
+	D	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43804
+	181	A project must be simultaneously implemented in two countries with a time-zone difference of 11 
+	hours. The project manager must determine a mutually convenient time to provide stakeholders 
+	with information on the project's schedule, cost, and performance progress.What should the 
+	project manager use to determine this? [43805]
+	A: Communication requirements analysis
+	B: Asynchronous brainstorming
+	C: Expert judgment
+	D: Meeting planning skills
+	geographical location is communication requirement analysis
+	A	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43805
+	182	A project manager for a company operating in a competitive market is creating a project scope 
+	statement. External limitations are noted.What is most important to the project sponsor at this 
+	stage of the project? [43806]
+	A: Constraints
+	B: Deliverables
+	C: Assumptions
+	D: Schedule
+	Limitation mean constraints
+	A	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43806
+	183	What should a project manager use to determine next steps when safety issues are identified? 
+	[43807]
+	A: Variance analysis
+	B: Earned value management (EVM)
+	C: Root cause analysis
+	D: Corrective action
+	When safty issues are identify, we should perform root cause analysis
+	C	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43807
+Page 43 of 47	16-Oct-2020
+ 
+
+	184	A project manager is creating a program evaluation and review technique (PERT) diagram. A 
+	primary activity on the critical path has a most optimistic time of three weeks, a most pessimistic 
+	time of seven weeks, and a most likely time of five weeks.What is the activity's expected time? 
+	[43808]
+	A: 3 weeks
+	B: 5 weeks
+	C: 6 weeks
+	D: 7 weeks
+	PERT formula: 
+	B	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43808
+	185	The charter for a project to build a new financial reward system for the sales division is approved. 
+	What should the project manager do now? [43809]
+	A: Develop the scope baseline.
+	B: Collect scope requirements.
+	C: Develop the project scope statement.
+	D: Prepare the scope management plan.
+	Scope management plan should be first of closure
+	D	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43809
+	186	The change control board (CCB) authorizes two corrective actions for implementation. The first 
+	action will cause a delay in delivering the regular stakeholder communication report. The second 
+	action will require more man hours on a severely delayed task on a critical path.What should the 
+	project manager do first? [43810]
+	A: Implement the first corrective action, since it was received first.
+	B: Hire an additional resource so that both corrective actions can be implemented simultaneously.
+	C: Implement the second correction action, since it is on a critical path.
+	D: Ask the CCB for further clarification on its expectations.
+	CHANGE CONTROL BOARD is responsible for evaluating changes
+	D	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43810
+	187	During a crisis, additional resources and time were required to resolve the issues. To avoid this 
+	situation, what should the project manager have addressed earlier? [43811]
+	A: Resource changes
+	B: Technology updates
+	C: Unmanaged risks
+	D: Management changes
+	Risk should be managed for any crisis
+	C	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43811
+Page 44 of 47	16-Oct-2020
+ 
+
+	188	After contract sign-off, a project manager learns that the vendor has a reputation of not delivering
+	 according to the contract. To ensure the vendor's compliance, what should the project manager 
+	do? [43812]
+	A: Cancel the current contract and select another vendor.
+	B: Insist on a firm fixed price (FFP) contract with the vendor.
+	C: Conduct s make-or-buy analysis to verify vendor reliability.
+	D: Perform periodic inspections of the vendor's work and progress.
+	procurement performance review should be done regularly to ensure vendor's compliance
+	D	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43812
+	189	A project's cost performance index (CPI) is 1.05 and its schedule performance index (SPI) is 0.95. 
+	Based on this information, what is the result of the project? [43813]
+	A: Behind schedule and over budget
+	B: Behind schedule and within budget
+	C: Ahead of schedule and within budget
+	D: On schedule and over budget
+	B	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43813
+	190	A project manager identifies a risk for a complex module in a project. Before executing work on 
+	this module, a technical specialist suggests adopting a proven technology rather than using a new,
+	 experimental technology. The project manager accepts this suggestion.What risk response 
+	strategy did the project manager use? [43814]
+	A: Transfer
+	B: Avoid
+	C: Mitigate
+	D: Share
+	Use a more stable technology is avoid
+	B	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43814
+	191	During project execution, a project team develops a new response for an existing risk that will 
+	reduce the schedule by 30 days.What document should the project manager update? [43815]
+	A: Work breakdown structure (WBS)
+	B: Risk breakdown structure (RBS)
+	C: Mitigation plan
+	D: Risk register
+	this is an opportunity or posisive risk and should be recorded in Risk Register
+	D	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43815
+Page 45 of 47	16-Oct-2020
+ 
+
+	192	A project sponsor approves a significant change to project scope that requires additional work and
+	 new deliverables from an external provider. What should the project manager do? [43816]
+	A: Initiate a change request.
+	B: Conduct a performance review.
+	C: Review work performance data.
+	D: Employ the contract change control system.
+	The change approved is about controlling procurement. After approved CR then the pm should use contract change control to discus 
+	with vendor
+	D	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43816
+	193	A project manager realizes that an issue that occurred several weeks ago has negatively impacted 
+	the schedule. When the mitigation plan is initiated, it fails because the required resources are now
+	 unavailable.What should the project manager have done to avoid this? [43817]
+	A: Conducted stand-up meetings to communicate project status
+	B: Sent out status reports to stakeholders
+	C: Reviewed and updated the risk mitigation plan
+	D: Updated the resource management plan
+	After risk response is identified then other plan should be updated accordingly, e.g. update resource plan to reflect the role in risk 
+	handling
+	D	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43817
+	194	A development project's earned value is US$640,000, and the planned value is US$800,000. What 
+	should the project manager do to control this variance? [43818]
+	A: Calculate the earned value and change the project baseline to reflect the latest project status.
+	B: Reallocate US$160,000 to project tasks that are behind schedule.
+	C: Use project performance measurement and decide on corrective actions.
+	D: Release US$160,000 to the supplier to fast-track the project so that it is completed on time and
+	 within budget.
+	Corrective action is to make the project inline with plan (mean on schedule).
+	C	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43818
+	195	During a project review, the construction manager reports that the concrete production rate has 
+	changed over the last three months. What analysis should be conducted? [43819]
+	A: Earned value (EV)
+	B: Critical path
+	C: Trend
+	D: Cost
+	Concrete production rate reflect works done and should be calculated through EV
+	A	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43819
+Page 46 of 47	16-Oct-2020
+ 
+
+	196	A project team member encounters an issue and identifies a workaround, but fails to inform the 
+	project manager. Two weeks later, a similar issue occurs that impacts the project.What could 
+	have prevented this issue's reoccurrence? [43820]
+	A: Documenting the organizational process assets
+	B: Revising the responsibility assignment matrix (RAM)
+	C: Performing a root cause analysis
+	D: Updating the risk register
+	If root cause analysis is done the issue won't happen again.
+	C	4
+$$1	PRE1	Professional 	2:	C	Closing	3:
+	eco_task_abbrev	Hints
+	43820
+Page 47 of 47	16-Oct-2020
